@@ -8,7 +8,7 @@
 body {
     font-family: Arial, sans-serif;
     color: #333;
-    background-color: #f4f4f4;
+    background-color: #ff006f;
 }
 
 /* Header Styles */
@@ -40,7 +40,7 @@ nav ul li a:hover {
 /* Hero Section */
 .hero {
     height: 80vh;
-    background-color: #2a9d8f;
+    background-color: #ff0022;
     display: flex;
     justify-content: center;
     align-items: center;
