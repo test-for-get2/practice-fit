@@ -63,7 +63,7 @@ nav ul li a:hover {
 }
 
 .button {
-    background-color: #e76f51;
+    background-color: #6838fb;
     color: white;
     padding: 10px 20px;
     text-decoration: none;
@@ -72,7 +72,7 @@ nav ul li a:hover {
 }
 
 .button:hover {
-    background-color: #d35400;
+    background-color: #3e0b5b;
 }
 
 /* Footer Styles */
